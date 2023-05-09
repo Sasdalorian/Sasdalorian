@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Me llamo Nicolás Sanhueza y soy Desarrollador de Software!<br><br>Vivo en Valparaíso, Chile.</p>
+<p align="center">Me llamo Nicolás Sanhueza y soy Desarrollador de Software!<br><br>Vivo en Valparaíso, Chile. <br><br> Aprendiendo mientras la pienso y la pienso mientras aprendo. </p>
 
 ###
 
