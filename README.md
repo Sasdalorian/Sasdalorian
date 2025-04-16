@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me llamo Nicolás Sanhueza y soy Desarrollador de Software!<br><br>Aprendiendo mientras la pienso y la pienso mientras aprendo.<br>Vivo en Valparaíso, Chile.</p>
+<p align="left">Me llamo Nicolás Sanhueza Díaz y soy Desarrollador de Software!<br><br>Aprendiendo mientras la pienso y la pienso mientras aprendo.<br>Vivo en Valparaíso, Chile.</p>
 
 ###
 
